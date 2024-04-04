@@ -2,6 +2,8 @@
 
 My first Three.js animation demo.
 
+![screenshot](snapshot.png)
+
 
 ## run
 
